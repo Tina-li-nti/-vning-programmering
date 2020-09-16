@@ -50,6 +50,7 @@ namespace metoder
 
                 if (Test2Svar == "wien")
                 {
+
                     Console.WriteLine("Nu när vi har testat din grundläggande intelligens");
                     Console.WriteLine("Förflyttar testsubjekt " + name + " till labratoriet...");
                     System.Threading.Thread.Sleep(5000);
